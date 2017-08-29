@@ -25,7 +25,7 @@ author:
   email:             cjohansen@ucdavis.edu
 
 # Fallback image and color
-image:                carynjohanse.github.io/assets/img/redRocks_close.jpeg 
+image:                /assets/img/redRocks_close.jpeg 
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
