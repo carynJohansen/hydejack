@@ -4,7 +4,8 @@ title: Trip Reports
 slug: trip reports
 menu: true
 order: 1
-description: > Updates on adventures.
+description: > 
+  Brief (or long) reports on adventures!
   
 
 # http://jsfiddle.net/LPxrT/
