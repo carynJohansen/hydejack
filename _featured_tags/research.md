@@ -3,7 +3,7 @@ layout: list
 title: Research
 slug: research
 menu: true
-order: 3
+order: 1
 description: > 
   Stuff about my research
   
