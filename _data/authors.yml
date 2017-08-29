@@ -11,12 +11,12 @@ caryn:
     Caryn is a computational biologist and a graduate student at UC Davis. She studies gene expression and local adaptation in the model organism maize.
 
   # This photo will be used in the about section
-  picture:
-    src:             /assets/img/redRock_close.jpeg
+  picture:  /assets/img/redRock_close.jpeg
+    # src:             
     # srcset is optional, but can be used to provide higher res versions for retina displays
-    srcset:
-      1x:            https://placehold.it/128x128
-      2x:            https://placehold.it/256x256
+    # srcset:
+    #  1x:            https://placehold.it/128x128
+    #  2x:            https://placehold.it/256x256
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
@@ -60,19 +60,3 @@ caryn:
     email:           cjohansen@ucdavis.edu
     #rss:             https://<url>/feed.xml
 
-# Another author
-mdo:
-  name:              <firtname> <lastname>
-  email:             <mail@domain.tld>
-  about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-    Open `_data/authors.yml` to edit this text.
-  picture:           https://placehold.it/128x128
-  social:
-    github:          <username>
-    twitter:         <username>
-  image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==' # http://jsfiddle.net/LPxrT/
-  color: '#268bd2'
