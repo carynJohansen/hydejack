@@ -10,15 +10,14 @@ url:                 carynjohansen.github.io
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
-baseurl:             /hydejack
+baseurl:             ''
 
 # A very short description of your page
 tagline:             Another graduate student blog
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Open `_config.yml` to edit this text.
+  Another graduate student blog.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -26,7 +25,7 @@ author:
   email:             cjohansen@ucdavis.edu
 
 # Fallback image and color
-image:               /hydejack/assets/img/nap.jpg
+image:                /assets/img/redRocks_close.jpeg 
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
