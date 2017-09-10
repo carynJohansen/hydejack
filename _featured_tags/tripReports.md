@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Trip Reports
-slug: trip reports
+slug: trips
 menu: true
 order: 3
 description: > 
