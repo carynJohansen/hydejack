@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Climbing the Kindergarten Slab
-tags: [trips]
+tags: [projects]
 author: caryn
 ---
 
