@@ -4,12 +4,7 @@ title: Climbing the Kindergarten Slab
 tags: [trips]
 author: caryn
 ---
----
-title: "Untitled"
-author: "Caryn Johansen"
-date: "10/7/2017"
-output: html_document
----
+
 There is freedom of 1) having a modular approach to camping, 2) living withing striking distance of mountains, and 3) a vehicle. On Saturday, after a lazy morning and late breakfast, we decided to go up to Tahoe. Cody had to pick up some backcountry skins for his skis, and I wanted to buy some backcountry ski boots. It can take us less than 30 minutes to throw everything we need into Notorious SBG and roll out of Davis. That is incredibly luxurious and I feel lucky to be able to do, and have a partner to do it with.
 
 On the way up to Truckee, we stopped and did a 8 mile heading south on the PCT. It was beautiful! I'm getting back into shape after taking time off from an ultra race for recovery and also from hurting my knee dancing at a wedding. But taking the run slow was beautiful enough, and Cody was able to take off and did at least one more mile, if not more. There were awesome views of the Donner lake.
