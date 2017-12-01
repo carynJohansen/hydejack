@@ -8,6 +8,9 @@ author: caryn
 Note: some parts of this information may be specific to my hpc and my farm.
 However, I've worked on two separate clusters, and what I learned on the first applied generally to the second.
 
+Also, this doesn't go over basic bash.
+Check out http://swcarpentry.github.io/shell-novice/ for some basic for how to work in the shell.
+
 ~~~bash
 #!/bin/bash -l
 
@@ -55,9 +58,11 @@ I also like to include a line of code at the end of the script that will put the
 This looks somethign like:
 
 ```
-echo $SLURM_JOB_ID $run_tie $var1 $var1 $data1 $data2 >> run_name.info
+echo $SLURM_JOB_ID $run_time $var1 $var1 $data1 $data2 >> run_name.info
 ```
 
-If you're unfamiliar with bash, the $ infront of something indicates that it is a variable.
-As bash is beyond the lesson, there are lots of cool resources to reference.
+Prints both the slurm information and my data and variable information into the file run_name.info.
+I have found these files to be incredibly useful when going to back to understand exactly what I've done.
+They are particularly useful when doing array jobs, which I'll do tomorrow.
+
 
