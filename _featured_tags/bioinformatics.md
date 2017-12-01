@@ -1,11 +1,11 @@
 ---
 layout: list
-title: Bioinformatics
+title: 20 min Bioinformatics
 slug: bioinformatics
 menu: true
 order: 4
 description: >
-  Go here for posts on bioinformatic problems and thoughts
+  Code I write in 20 minutes or less to solve small problems or puzzles. The commenting may take longer.
 
 # http://jsfiddle.net/LPxrT/
 image: 'data:image/gif;base64,R0lGODlhAQABAPAAACAgIP///yH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=='
