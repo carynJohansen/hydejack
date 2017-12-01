@@ -11,6 +11,9 @@ However, I've worked on two separate clusters, and what I learned on the first a
 Also, this doesn't go over basic bash.
 Check out http://swcarpentry.github.io/shell-novice/ for some basic for how to work in the shell.
 
+In addition, while making this, I realize that I don't often compare my bash scripts to others working in my lab or who I know.
+In the future, I'd like to compare bash scripts between people I know and see what is common and perhaps what is really different.
+
 ~~~bash
 #!/bin/bash -l
 
