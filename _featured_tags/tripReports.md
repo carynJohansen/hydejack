@@ -3,7 +3,7 @@ layout: list
 title: Trip Reports
 slug: trips
 menu: true
-order: 6
+order: 4
 description: > 
   Brief (or long) reports on adventures!
   
